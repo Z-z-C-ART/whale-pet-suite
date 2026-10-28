@@ -6,3 +6,9 @@ bin/
 .vs/
 Thumbs.db
 desktop.ini
+# 本地配置，可能包含 API Key，绝对不要提交
+standalone-ai.json
+main-config.jsonc
+*.key
+.env
+.env.*
