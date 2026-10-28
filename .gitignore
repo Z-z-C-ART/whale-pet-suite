@@ -1,0 +1,8 @@
+.trash/
+*.log
+debug.log
+obj/
+bin/
+.vs/
+Thumbs.db
+desktop.ini
